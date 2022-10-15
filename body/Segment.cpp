@@ -18,7 +18,6 @@ int Segment::getTo() const {
 
 void Segment::addDuplicates(vector<Segment> *duplicates, int start, int end) {
     duplicates->emplace_back(Segment(start, end));
-
 }
 
 void Segment::compare(const Segment &segment, vector<Segment> *duplicates) const {
@@ -33,7 +32,6 @@ void Segment::compare(const Segment &segment, vector<Segment> *duplicates) const
         addDuplicates(duplicates, from, segment.getTo());
     }
 }
-
 
 bool Segment::redundantFinder(const Segment &segment) {
 

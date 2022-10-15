@@ -14,7 +14,6 @@ class Network {
 public:
     Network();
 
-
     void addnewSegment(const string &name, const string &type,
                        const string &schemeLeft, const string &fromLeft, const string &toLeft,
                        const string &schemeRight, const string &fromRight, const string &toRight);

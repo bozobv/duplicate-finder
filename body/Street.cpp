@@ -5,9 +5,7 @@
 #include <algorithm>
 #include <fstream>
 
-Street::Street(string _name, string _type) : name(std::move(_name)), type(std::move(_type)) {
-
-}
+Street::Street(string _name, string _type) : name(std::move(_name)), type(std::move(_type)) {}
 
 void Street::addOddAddress(const Segment &segment) {
     oddAdresses.emplace_back(segment);
@@ -129,10 +127,8 @@ void Street::writeDuplicateFile(ofstream &ofstream) {
 }
 
 void Street::removeQuatationMarks() {
-
     name = name + "" + type;
     name.erase(remove(name.begin(), name.end(), '\"'), name.end());
-
 }
 
 Street::~Street() = default;

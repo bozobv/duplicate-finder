@@ -8,6 +8,7 @@
 class Street {
 
     std::string name, type;
+
     vector<Segment> oddAdresses, evenAdresses, oddDuplicates, evenDuplicates;
 
 public:

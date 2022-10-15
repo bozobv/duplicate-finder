@@ -73,15 +73,13 @@ void Network::addnewSegment(const std::string &name,
 void Network::parityCheck(const std::string &scheme, const string &from, const string &to, Street *street) {
 
     if (scheme == "\"O\"" || "O") {
-
         street->addOddAddress(Segment(from, to));
         return;
-    } else if (scheme == "\"E\"" || "E") {
 
+    } else if (scheme == "\"E\"" || "E") {
         street->addEvenAddress(Segment(from, to));
         return;
     }
-
 }
 
 Network::Network() = default;
