@@ -48,9 +48,7 @@ Bimbóutca: O 4 51
 Boglárkautca: O 0 0
 Boglárkautca: O 3 33
 Bojtutca: O 2 8
-Bokrétautca: O 1 7
-Bokrétautca: O 2 7
-Bokrétautca: O 2 10
+Bokrétautca: O 1 10
 Borutca: O 0 0
 Borutca: O 2 3
 Budafokiutca: O 2 9
@@ -60,12 +58,7 @@ Budafokiutca: O 36 37
 Budafokiutca: O 39 40
 Budafokiutca: O 42 44
 Budakesziutca: O 0 0
-Budakesziutca: O 1 3
-Budakesziutca: O 2 15
-Budakesziutca: O 2 3
-Budakesziutca: O 2 2
-Budakesziutca: O 4 4
-Budakesziutca: O 5 5
+Budakesziutca: O 1 15
 Budapestiút: O 2 48
 Budapestiút: O 50 51
 Budapestiút: O 53 56
@@ -85,11 +78,7 @@ Bányászutca: O 26 27
 Bányászutca: O 29 30
 Bányászutca: O 32 33
 Bányászutca: O 35 44
-Bányászutca: O 46 47
-Bányászutca: O 46 52
-Bányászutca: O 49 52
-Bányászutca: O 49 55
-Bányászutca: O 54 55
+Bányászutca: O 46 55
 Bányászutca: O 58 59
 Bányászutca: O 61 66
 Bányászutca: O 68 69
@@ -129,8 +118,6 @@ Esztergályosutca: O 7 21
 Fagyöngyutca: O 2 11
 Farkasrétiutca: O 0 0
 Farkasrétiutca: O 7 35
-Farkasrétiutca: O 10 30
-Farkasrétiutca: O 32 34
 Farkasrétiutca: O 54 54
 Farkasrétiutca: O 56 60
 Farkasrétiutca: O 63 63
@@ -198,9 +185,7 @@ Kassaiutca: O 52 59
 Kassaiutca: O 61 67
 Kassaiutca: O 70 70
 Keresztutca: O 0 0
-Kertészköz: O 1 5
-Kertészköz: O 2 5
-Kertészköz: O 2 8
+Kertészköz: O 1 8
 Kertészutca: O 2 10
 Kikeletutca: O 2 6
 Kikeletutca: O 8 9
@@ -262,14 +247,7 @@ Liliomutca: O 15 26
 Lomniciköz: O 0 0
 Lángutca: O 2 11
 Lévaiutca: O 0 0
-Lévaiutca: O 1 31
-Lévaiutca: O 2 34
-Lévaiutca: O 2 31
-Lévaiutca: O 33 33
-Lévaiutca: O 34 35
-Lévaiutca: O 34 34
-Lévaiutca: O 35 36
-Lévaiutca: O 35 35
+Lévaiutca: O 1 36
 Lóvölgyutca: O 2 4
 Malomkõutca: O 0 0
 Margarétautca: O 3 19
@@ -280,10 +258,7 @@ Mezõutca: O 8 27
 Mohautca: O 2 3
 Mozdonyutca: O 0 0
 Mozdonyutca: O 2 28
-Munkácsy Mihályutca: O 1 29
-Munkácsy Mihályutca: O 2 29
-Munkácsy Mihályutca: O 2 32
-Munkácsy Mihályutca: O 31 32
+Munkácsy Mihályutca: O 1 32
 Mátrautca: O 3 3
 Mátrautca: O 5 5
 Mátravölgyiutca: O 0 0
@@ -296,18 +271,10 @@ Nefelejcsutca: O 2 2
 Nefelejcsutca: O 3 3
 Nefelejcsutca: O 5 5
 Nefelejcsutca: O 9 17
-Nefelejcsutca: O 10 10
-Nefelejcsutca: O 12 14
-Nefelejcsutca: O 16 17
 Nefelejcsutca: O 22 22
-Nyárutca: O 1 3
-Nyárutca: O 2 3
-Nyárutca: O 2 6
-Nyárutca: O 5 6
+Nyárutca: O 1 6
 Nyárutca: O 8 13
 Nádasdûlõsétány: O 1 21
-Nádasdûlõsétány: O 6 8
-Nádasdûlõsétány: O 10 14
 Nárciszutca: O 2 26
 Orchideautca: O 2 7
 Orgonautca: O 3 51
@@ -318,9 +285,7 @@ Patkóutca: O 3 3
 Patkóutca: O 5 5
 Patkóutca: O 7 7
 Petõfi Sándorutca: O 2 31
-Petõfi Sándorutca: O 33 53
-Petõfi Sándorutca: O 34 53
-Petõfi Sándorutca: O 34 54
+Petõfi Sándorutca: O 33 54
 Petõfi Sándorutca: O 56 58
 Petõfi Sándorutca: O 61 64
 Pillangóutca: O 2 14
@@ -330,7 +295,6 @@ Pozsonyiutca: O 2 3
 Pozsonyiutca: O 6 17
 Présházutca: O 0 0
 Présházutca: O 2 16
-Présházutca: O 6 16
 Présházutca: O 18 22
 Puskás Tivadarutca: O 2 2
 Puskás Tivadarutca: O 4 6
@@ -357,11 +321,7 @@ Szabadságút: O 0 0
 Szabadságút: O 2 11
 Szabadságút: O 14 20
 Szabadságút: O 22 46
-Szabadságút: O 48 51
-Szabadságút: O 48 86
-Szabadságút: O 53 89
-Szabadságút: O 53 86
-Szabadságút: O 88 88
+Szabadságút: O 48 89
 Szabadságút: O 91 91
 Szabadságút: O 94 95
 Szabadságút: O 97 102
@@ -399,7 +359,6 @@ Szélesutca: O 2 27
 Szélesutca: O 29 37
 Szélesutca: O 39 51
 Szélesutca: O 53 54
-Szélesutca: O 56 77
 Szélesutca: O 56 78
 Széputca: O 2 4
 Széputca: O 7 15
@@ -412,11 +371,7 @@ Tavaszutca: O 0 0
 Tavaszutca: O 2 4
 Tavaszutca: O 6 8
 Tavaszutca: O 10 10
-Tavaszutca: O 12 19
-Tavaszutca: O 12 36
-Tavaszutca: O 21 36
-Tavaszutca: O 21 45
-Tavaszutca: O 38 45
+Tavaszutca: O 12 45
 Tavaszutca: O 47 55
 Thökölyutca: O 2 9
 Thökölyutca: O 12 23
@@ -462,7 +417,6 @@ Zúzmarautca: O 0 0
 Árnyasutca: O 2 12
 Árpádutca: O 2 25
 Árvácskautca: O 1 21
-Árvácskautca: O 2 16
 Átlósutca: O 4 7
 Átlósutca: O 10 17
 Átlósutca: O 20 21
@@ -474,7 +428,6 @@ Zúzmarautca: O 0 0
 Õszibarackutca: O 15 16
 Õszibarackutca: O 18 19
 Õszibarackutca: O 22 23
-Õszibarackutca: O 26 27
 Õszibarackutca: O 26 28
 Õszibarackutca: O 30 30
 Õszibarackutca: O 33 35

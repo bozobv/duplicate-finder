@@ -59,7 +59,7 @@ void Street::printDuplicates() {
     }
 }
 
-bool Street::compareAdresses(Segment s1, Segment s2) {
+bool Street::compareAdresses(const Segment &s1, const Segment &s2) {
     return (s1.getFrom() < s2.getFrom());
 }
 
@@ -70,6 +70,10 @@ void Street::sortStreets(vector<Segment> *addresses) {
 void Street::sortAdresses() {
     sortAdresses(&oddDuplicates);
     sortAdresses(&evenDuplicates);
+
+    removeRedundancy(&oddDuplicates);
+    removeRedundancy(&evenDuplicates);
+
     sortStreets(&oddDuplicates);
     sortStreets(&evenDuplicates);
 }
@@ -92,6 +96,29 @@ void Street::sortAdresses(vector<struct Segment> *adresses) {
                 i++;
         }
     }
+}
+
+void Street::removeRedundancy(vector<struct Segment> *adresses) {
+    if (adresses->size() > 1) {
+        int i = 0, j;
+        bool removed = false;
+        while (i < adresses->size() - 1) {
+            removed = false;
+            j = i + 1;
+            while (j < adresses->size()) {
+                if (adresses->at(i).redundantFinder(adresses->at(j))) {
+                    adresses->erase(adresses->begin() + j);
+                    removed = true;
+                } else
+                    j++;
+            }
+            if (!removed)
+                i++;
+        }
+
+    }
+
+
 }
 
 void Street::writeDuplicateFile(ofstream &ofstream) {

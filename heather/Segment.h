@@ -29,6 +29,8 @@ public:
     bool equal(const Segment &segment) const;
 
     int getTo() const;
+
+    bool redundantFinder(const Segment &segment);
 };
 
 

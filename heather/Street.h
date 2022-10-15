@@ -34,13 +34,15 @@ public:
 
     static void sortAdresses(vector<struct Segment> *vector);
 
-    static bool compareAdresses(Segment s1, Segment s2);
+    static bool compareAdresses(const Segment &s1, const Segment &s2);
 
     static void sortStreets(vector<Segment> *addresses);
 
     void writeDuplicateFile(std::ofstream &ofstream);
 
     void removeQuatationMarks();
+
+    static void removeRedundancy(vector<struct Segment> *adresses);
 };
 
 #endif
