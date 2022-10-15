@@ -10,12 +10,11 @@ class Segment {
 
     int from, to;
 
-    Segment(int _from, int _to);
-
-
     static void addDuplicates(vector<Segment> *duplicates, int start, int end);
 
 public:
+
+    Segment(int _from, int _to);
 
     int getFrom() const;
 

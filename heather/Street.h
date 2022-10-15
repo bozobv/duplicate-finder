@@ -43,5 +43,4 @@ public:
     void removeQuatationMarks();
 };
 
-
-#endif //UNTITLED1_STREET_H
+#endif

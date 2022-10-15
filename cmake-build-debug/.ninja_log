@@ -1,13 +1,18 @@
 # ninja log v5
-519	606	1665810087446628630	untitled1	3c3879e4d0ef05fa
-1	32	1665810273852384691	build.ninja	fccd0203ff08cd09
-1	383	1665809843843080769	CMakeFiles/untitled1.dir/main.cpp.o	eba62427185860af
-11	595	1665807976229632608	CMakeFiles/untitled1.dir/Segment.cpp.o	cd7c75831ddbd315
-1	519	1665810087358625910	CMakeFiles/untitled1.dir/Street.cpp.o	65e5138fb4be3b77
-2	783	1665809844243093194	CMakeFiles/untitled1.dir/Network.cpp.o	75e809ff0dccf049
-0	34	1665810273852384691	build.ninja	fccd0203ff08cd09
+665	750	1665810274608408010	untitled1	3c3879e4d0ef05fa
+0	34	1665811724324641117	build.ninja	fccd0203ff08cd09
 0	285	1665810274144393698	CMakeFiles/untitled1.dir/main.cpp.o	eba62427185860af
 0	377	1665810274236396535	CMakeFiles/untitled1.dir/Segment.cpp.o	cd7c75831ddbd315
 1	575	1665810274436402705	CMakeFiles/untitled1.dir/Street.cpp.o	65e5138fb4be3b77
 1	665	1665810274524405419	CMakeFiles/untitled1.dir/Network.cpp.o	75e809ff0dccf049
-665	750	1665810274608408010	untitled1	3c3879e4d0ef05fa
+1	35	1665811724324641117	build.ninja	fccd0203ff08cd09
+0	433	1665811724764654414	CMakeFiles/untitled1.dir/body/main.cpp.o	fc39927738ce876f
+1	525	1665811724856657195	CMakeFiles/untitled1.dir/body/Segment.cpp.o	b951bc879973d907
+0	703	1665811725032662513	CMakeFiles/untitled1.dir/body/Street.cpp.o	6ec21cdcede53312
+0	831	1665811725164666502	CMakeFiles/untitled1.dir/body/Network.cpp.o	1ccbace9a45f3d94
+832	939	1665811725268669645	untitled1	4524af1c00ee4761
+1	519	1665811838128084366	CMakeFiles/untitled1.dir/body/main.cpp.o	fc39927738ce876f
+4	743	1665811838352091151	CMakeFiles/untitled1.dir/body/Segment.cpp.o	b951bc879973d907
+5	839	1665811838448094059	CMakeFiles/untitled1.dir/body/Street.cpp.o	6ec21cdcede53312
+6	1087	1665811838696101571	CMakeFiles/untitled1.dir/body/Network.cpp.o	1ccbace9a45f3d94
+1087	1176	1665811838784104237	untitled1	4524af1c00ee4761

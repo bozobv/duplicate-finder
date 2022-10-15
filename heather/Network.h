@@ -1,7 +1,3 @@
-//
-// Created by balint on 2022.10.03..
-//
-
 #ifndef UNTITLED1_NETWORK_H
 #define UNTITLED1_NETWORK_H
 
@@ -11,8 +7,6 @@
 
 class Network {
 
-    //Street *streets;
-    //int streetsSize;
     vector<Street> streets;
 
     static void parityCheck(const string &scheme, const string &from, const string &to, Street *street);
@@ -45,4 +39,4 @@ public:
 };
 
 
-#endif //UNTITLED1_NETWORK_H
+#endif
