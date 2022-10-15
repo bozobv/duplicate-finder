@@ -115,10 +115,7 @@ void Street::removeRedundancy(vector<struct Segment> *adresses) {
             if (!removed)
                 i++;
         }
-
     }
-
-
 }
 
 void Street::writeDuplicateFile(ofstream &ofstream) {
